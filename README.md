@@ -1,4 +1,7 @@
 # hello-world
-My first repository on GitHub
+My second update to my repository on GitHub
+
+Hello fellas!
+
 Maciek typing. Just getting in touch with commit changes.
-Look quite easy ;].
+Looks quite easy ;]. Can't start using it.
